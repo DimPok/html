@@ -1,0 +1,1 @@
+This is a landing page for travel and booking agencies, written in pure html. Optimized for Seo, mobile devices and fully ready for use. If you want, you can replace texts, links and titles with your own, use your own logo and pictures
